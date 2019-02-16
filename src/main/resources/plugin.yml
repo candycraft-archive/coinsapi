@@ -1,0 +1,6 @@
+name: CoinAPI
+author: pauhull
+version: 1.0
+main: de.pauhull.coins.spigot.CoinAPISpigotAdapter$SpigotPlugin
+
+depend: [TimoCloud, SpigotUUIDFetcher]

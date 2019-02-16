@@ -1,0 +1,4 @@
+name: CoinAPI
+author: pauhull
+version: 1.0
+main: de.pauhull.coins.bungee.CoinAPIBungeeAdapter$BungeePlugin
